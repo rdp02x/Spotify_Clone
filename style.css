@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #FFFFFF;
+    font-family: Oxygen, Helvetica Neue, sans-serif;
+}
+
+body {
+    box-sizing: border-box;
+    background-color: #000000;
+}
+
+
